@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Yale Israel Venture Capital Conference seal">
+  <defs>
+    <path id="top-w" d="M120,208 A88,88 0 1,1 120.01,208"/>
+    <path id="bot-w" d="M22,120 A98,98 0 0,0 218,120"/>
+  </defs>
+  <circle cx="120" cy="120" r="113" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#ffffff" stroke-width="0.75"/>
+  <circle cx="120" cy="120" r="72" fill="none" stroke="#c7d0dc" stroke-width="0.75"/>
+  <text font-family="Public Sans, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.9" fill="#ffffff">
+    <textPath href="#top-w" startOffset="50%" text-anchor="middle">YALE ISRAEL VENTURE CAPITAL CONFERENCE</textPath>
+  </text>
+  <text font-family="Public Sans, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3" fill="#ffffff">
+    <textPath href="#bot-w" startOffset="50%" text-anchor="middle">·  2027  ·</textPath>
+  </text>
+  <text x="120" y="129" text-anchor="middle" font-family="Newsreader, Georgia, serif" font-size="44" fill="#ffffff">YIVC</text>
+  <line x1="94" y1="142" x2="146" y2="142" stroke="#c7d0dc" stroke-width="0.75"/>
+  <text x="120" y="158" text-anchor="middle" font-family="Public Sans, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="3.2" fill="#c7d0dc">YALE</text>
+</svg>
