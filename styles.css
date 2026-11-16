@@ -412,3 +412,5 @@ h1, h2, h3, p, ol, figure { margin: 0; }
   .marquee-track { padding: 16px 0; }
   .marquee-row img { height: 26px; }
 }
+
+.faculty-link { display: block; text-decoration: none; color: inherit; }
